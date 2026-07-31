@@ -1,0 +1,6 @@
+{
+  "name": "BlueChat",
+  "description": "Modern offline Bluetooth messenger for private peer-to-peer chat and file transfer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
